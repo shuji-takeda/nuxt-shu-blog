@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@mdi/font": "^7.4.47",
     "@nuxt/content": "^3.4.0",
     "@nuxt/eslint": "^1.2.0",
     "@nuxt/icon": "^1.11.0",
@@ -26,6 +27,8 @@
   },
   "devDependencies": {
     "eslint-config-prettier": "^10.1.1",
-    "eslint-plugin-prettier": "^5.2.5"
+    "eslint-plugin-prettier": "^5.2.5",
+    "vite-plugin-vuetify": "^2.1.1",
+    "vuetify": "^3.8.0"
   }
 }
